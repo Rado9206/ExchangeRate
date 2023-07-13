@@ -1,0 +1,2 @@
+Calculator 
+Exchange Rate
